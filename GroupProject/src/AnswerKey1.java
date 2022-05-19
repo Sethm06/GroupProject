@@ -1,4 +1,4 @@
-package Group;
+package GroupProject;
 
 import java.util.Scanner;
 
