@@ -43,7 +43,7 @@ public class Idea1
 		{
 			message = "Computer: scissors \r\nYou win!";
 		}
-		else if (player=="paper" && comp==1)
+		else (player=="paper" && comp==1)
 		{
 			message = "Computer: rock \r\nYou win!";
 		}
