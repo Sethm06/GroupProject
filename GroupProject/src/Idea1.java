@@ -7,7 +7,7 @@ public class Idea1
 
 	public static void main(String[] args) 
 	{
-		//
+		
 		String one = "play";
 		while (one=="play")
 		{
