@@ -60,6 +60,7 @@ public class Idea1
 	}
 
 }
+
 }
 
 
